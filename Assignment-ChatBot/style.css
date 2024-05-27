@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(to right,rgb(130, 168, 94), rgba(87, 96, 165, 0.767));
+    margin: 0%;
+    padding: 0%;
+}
+.img-logo{
+    width: 15vw;
+    margin: 0%;
+    padding: 0%;
+}
